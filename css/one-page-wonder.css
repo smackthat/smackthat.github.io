@@ -6,13 +6,15 @@
 
 body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+	//font-family: "Comic Sans MS";
+	
 }
 
 .header-image {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+    background: url('http://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/415420/8af16768aa6315b7420342ec79395289ba260c6c.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
